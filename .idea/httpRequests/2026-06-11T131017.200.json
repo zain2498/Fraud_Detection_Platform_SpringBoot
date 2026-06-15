@@ -1,0 +1,702 @@
+[
+  {
+    "amount": 1.00,
+    "responseCode": "",
+    "status": "2",
+    "transactionId": "46A161A5-17CC-402E-9241-83C717ABA9B2",
+    "transactionRequestId": 1
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "",
+    "status": "2",
+    "transactionId": "E705D2F8-C422-4FAB-82FE-72E6751D197B",
+    "transactionRequestId": 2
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "DF40C955-950B-4166-8414-90E16439810F",
+    "transactionRequestId": 3
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "B0887510-76DF-4B48-B484-71A6C84DCBAF",
+    "transactionRequestId": 4
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "97E2FD33-A811-434E-ADD1-49A4B512D3FF",
+    "transactionRequestId": 5
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "E36B3457-19EF-40B8-8B66-5FD4A07984C6",
+    "transactionRequestId": 6
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "DEE87F5D-1D96-48D7-AF3F-B3B6D5D9318F",
+    "transactionRequestId": 7
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "1EB5238A-DB65-41E5-AB72-D383BD98EBD1",
+    "transactionRequestId": 8
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "66CCEB64-C8C0-4EB9-859A-7A31D9035C96",
+    "transactionRequestId": 9
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "59B2B763-33F8-4684-A1BB-9429B735D382",
+    "transactionRequestId": 10
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "F71F95F8-ED59-47EC-8397-76B20DC3E88B",
+    "transactionRequestId": 11
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "3B48EBCB-AB80-4443-8A8B-7CF84B50C7F7",
+    "transactionRequestId": 12
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "80D2D45B-0EDE-462D-9C0E-0575226D0396",
+    "transactionRequestId": 13
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "2C02C738-41D7-40BE-BF2B-E721A1E184FE",
+    "transactionRequestId": 14
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "C1521E31-F95C-4C49-892D-807802A71DB7",
+    "transactionRequestId": 15
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "8C905A1E-A719-4D3A-91C4-0071B996C0EC",
+    "transactionRequestId": 16
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "884C7E63-5F0D-414D-9BD4-63B63435058F",
+    "transactionRequestId": 17
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "64E2995E-2E8D-4B20-8655-ACF801ED78B4",
+    "transactionRequestId": 18
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "3804C56B-B2DB-4FEB-B73C-10DC2FCF120B",
+    "transactionRequestId": 19
+  },
+  {
+    "amount": 1.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "13CBB0D0-9585-4C6E-A83A-B565D2ACC2C3",
+    "transactionRequestId": 20
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "",
+    "status": "2",
+    "transactionId": "BD2D367F-1425-49E1-A5A9-79E2CFE735E7",
+    "transactionRequestId": 21
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "",
+    "status": "2",
+    "transactionId": "38499228-8027-4FC7-A0EB-CE887222B8E7",
+    "transactionRequestId": 22
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "",
+    "status": "2",
+    "transactionId": "7D43099A-835E-456E-B285-EF66753473D7",
+    "transactionRequestId": 23
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "C071B7C2-C95B-4E98-915E-73551C09A5F7",
+    "transactionRequestId": 24
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "03B8E26E-E8A4-45F9-A82D-CD2A5853F186",
+    "transactionRequestId": 25
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "7E7E387D-C2EF-40D0-BE22-915CCD24630C",
+    "transactionRequestId": 26
+  },
+  {
+    "amount": 1.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "10864835-3091-449F-8DE8-2ED532D4D115",
+    "transactionRequestId": 27
+  },
+  {
+    "amount": 19.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "394B0A93-60F4-466D-8EE0-B0C47C089983",
+    "transactionRequestId": 28
+  },
+  {
+    "amount": 26.94,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "5F475D24-6EC5-495A-97EE-778EC9A9D7D0",
+    "transactionRequestId": 29
+  },
+  {
+    "amount": 26.94,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "B5BEC78D-323C-46CE-8093-817944E2D2D7",
+    "transactionRequestId": 30
+  },
+  {
+    "amount": 22.63,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "8875A83C-C698-4923-9D87-CDD2E43BDEC7",
+    "transactionRequestId": 31
+  },
+  {
+    "amount": 53.56,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "134E954A-66AF-46D2-85D2-AB659647E4E4",
+    "transactionRequestId": 32
+  },
+  {
+    "amount": 112.49,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "19ADE7F0-F3C4-439D-A7B3-0494F4AD3EDD",
+    "transactionRequestId": 33
+  },
+  {
+    "amount": 112.49,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "557CE65F-1254-46BA-A504-4B95361BFC6F",
+    "transactionRequestId": 34
+  },
+  {
+    "amount": 22.36,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "B303DD66-EE37-453B-A8D8-7BBB895ED5DF",
+    "transactionRequestId": 35
+  },
+  {
+    "amount": 63.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "EA2970FD-DA1D-4259-A982-9659B97E0F75",
+    "transactionRequestId": 36
+  },
+  {
+    "amount": 500.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "B7DDEFF0-4E09-464D-8A77-A5309B7630A5",
+    "transactionRequestId": 37
+  },
+  {
+    "amount": 0.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "62E593AD-EA77-4B7E-B4E2-32407AAD9F76",
+    "transactionRequestId": 38
+  },
+  {
+    "amount": 53.88,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "1124319C-B85E-4B74-8DDB-4377D150202F",
+    "transactionRequestId": 39
+  },
+  {
+    "amount": 0.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "94BB20A7-1BEB-4D74-BEFD-752D814434AF",
+    "transactionRequestId": 40
+  },
+  {
+    "amount": 0.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "BA61AAA9-A86E-4E50-BE47-FB5E28962E1E",
+    "transactionRequestId": 41
+  },
+  {
+    "amount": 25.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "A230CC92-BDBB-4C83-ACAD-6A8C99E87736",
+    "transactionRequestId": 42
+  },
+  {
+    "amount": 75.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "CAF05C5E-1628-4065-AF29-05F30B45D0EA",
+    "transactionRequestId": 43
+  },
+  {
+    "amount": 75.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "FBA99B0E-27D0-46AC-880E-DD1466249A16",
+    "transactionRequestId": 44
+  },
+  {
+    "amount": 75.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "87DB8862-1127-4032-B290-5D0D768D9E69",
+    "transactionRequestId": 45
+  },
+  {
+    "amount": 75.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "CB64C112-209D-4820-A2AC-324D21C0969E",
+    "transactionRequestId": 46
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "96C53A47-6904-4FDA-AED4-85377FDC698D",
+    "transactionRequestId": 47
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "78A9793D-AE46-4885-ACCB-2E64EA18399E",
+    "transactionRequestId": 48
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "1D047DC2-F87E-4314-A80B-218BF2DB94B5",
+    "transactionRequestId": 49
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "192BAA5A-6611-49A8-8C75-D44FBE62D12C",
+    "transactionRequestId": 50
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "B302E83D-71D8-4D0A-9D5B-AD397997CBEF",
+    "transactionRequestId": 51
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "0ACB3FCF-CA83-42E7-A27C-F515388DB14A",
+    "transactionRequestId": 52
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "9E051BA0-CE95-44B2-ADB9-45CD2B79AB56",
+    "transactionRequestId": 53
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "A2E9442A-04A1-466A-9C23-64F1EF41C6CF",
+    "transactionRequestId": 54
+  },
+  {
+    "amount": 96.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "A443FFC7-05C3-466C-846C-40E2D17BA551",
+    "transactionRequestId": 55
+  },
+  {
+    "amount": 20.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "6F42CE2E-BD65-4D13-AD73-3FE21643E927",
+    "transactionRequestId": 56
+  },
+  {
+    "amount": 7.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "53E30275-2A86-4D71-997E-985844454D49",
+    "transactionRequestId": 57
+  },
+  {
+    "amount": 35.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "136AC970-2EF3-4D60-8672-CC2052A4DCBD",
+    "transactionRequestId": 58
+  },
+  {
+    "amount": 10.24,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "263870E9-3A3D-493C-96C7-E781E66226F4",
+    "transactionRequestId": 59
+  },
+  {
+    "amount": 1384.47,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "11F3D446-5D6D-40EF-B992-9C8B6543929E",
+    "transactionRequestId": 60
+  },
+  {
+    "amount": 54.95,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "F8083D5D-5234-4858-B21F-727C72E6C9CA",
+    "transactionRequestId": 61
+  },
+  {
+    "amount": 33.56,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "D7FE1B28-7D61-4B63-9942-A4F5B7A5C8C8",
+    "transactionRequestId": 62
+  },
+  {
+    "amount": 6.00,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "4CE6D79B-C0A3-4A8A-A66D-6D5AA786E549",
+    "transactionRequestId": 63
+  },
+  {
+    "amount": 18.32,
+    "responseCode": "404",
+    "status": "2",
+    "transactionId": "ACF106E0-B257-4AF6-BCB3-4B030284AD98",
+    "transactionRequestId": 64
+  },
+  {
+    "amount": 60.05,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "2D6C6C4A-1A18-40DF-ADB4-3AFD805F20F9",
+    "transactionRequestId": 65
+  },
+  {
+    "amount": 2769.61,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "60467458-92FA-4CF6-BB58-C9E5B1661EFA",
+    "transactionRequestId": 66
+  },
+  {
+    "amount": 33.24,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "7B412009-159E-4305-9986-AB884AC408EB",
+    "transactionRequestId": 67
+  },
+  {
+    "amount": 10.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "FF14EF7C-7F53-4D5B-9529-A42FEE53AB03",
+    "transactionRequestId": 68
+  },
+  {
+    "amount": 2443.77,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "62D983D2-C413-46C7-A7F5-2A1F633E40E8",
+    "transactionRequestId": 69
+  },
+  {
+    "amount": 18.05,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "EACA0197-3C0C-4E97-B9E4-FF3F06772D24",
+    "transactionRequestId": 70
+  },
+  {
+    "amount": 3491.10,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "836800F0-EBFE-4B28-96B2-0EFCA0349829",
+    "transactionRequestId": 71
+  },
+  {
+    "amount": 33.40,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "3B1D914A-9D78-4F88-B482-228905A3379D",
+    "transactionRequestId": 72
+  },
+  {
+    "amount": 3887.91,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "DE5BF0D1-C9DA-4463-8722-C657AD3E2588",
+    "transactionRequestId": 73
+  },
+  {
+    "amount": 65.79,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "3DA61B90-0919-42CF-99D8-B2A143BBD513",
+    "transactionRequestId": 74
+  },
+  {
+    "amount": 13.98,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "1F071B8B-C52F-4E3E-850D-00B4A2F99C4B",
+    "transactionRequestId": 75
+  },
+  {
+    "amount": 96.04,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "1923E4EB-F333-4D6B-BB2A-087B5DCAD34A",
+    "transactionRequestId": 76
+  },
+  {
+    "amount": 62.48,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "83BFA7D5-05FB-4309-9952-74FFADA36C58",
+    "transactionRequestId": 77
+  },
+  {
+    "amount": 85.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "1B97D6C2-9CFB-4AAC-BD70-6770BD8299E7",
+    "transactionRequestId": 78
+  },
+  {
+    "amount": 14.12,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "21B45BDE-2D30-4053-B2EB-42E373E33FD6",
+    "transactionRequestId": 79
+  },
+  {
+    "amount": 5733.16,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "9205CE3C-D6EB-4D19-9D80-68C7D1A785BE",
+    "transactionRequestId": 80
+  },
+  {
+    "amount": 73.03,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "DDA4B434-1503-4B16-B4C5-FE48F17220F4",
+    "transactionRequestId": 81
+  },
+  {
+    "amount": 47.97,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "C937617E-F4DE-4C21-9D73-79F748093DE1",
+    "transactionRequestId": 82
+  },
+  {
+    "amount": 19.50,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "D893BCB4-4C44-4C1E-8AC9-57F9940843EA",
+    "transactionRequestId": 83
+  },
+  {
+    "amount": 4913.40,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "62F22262-4651-40EB-8142-91ED2C15516F",
+    "transactionRequestId": 84
+  },
+  {
+    "amount": 39.49,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "CD809CD2-D30E-4D2E-B264-44BE17BFBF6E",
+    "transactionRequestId": 85
+  },
+  {
+    "amount": 91.20,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "253C0E6D-6FC0-4DFE-A770-6B828A7C05AC",
+    "transactionRequestId": 86
+  },
+  {
+    "amount": 95.57,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "47E35D9C-D858-47E5-8C02-20DDFC8E6D8D",
+    "transactionRequestId": 87
+  },
+  {
+    "amount": 2198.10,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "B2FB6407-C72C-4C7E-83F2-0C65CBCFCBDF",
+    "transactionRequestId": 88
+  },
+  {
+    "amount": 2198.10,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "B7CF6DB3-803E-4C00-BB6F-465E6CD12523",
+    "transactionRequestId": 89
+  },
+  {
+    "amount": 297.15,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "7D91711A-85E5-4F3A-971B-CB778BDA9F9E",
+    "transactionRequestId": 90
+  },
+  {
+    "amount": 345.00,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "EFE8BC1B-115A-4781-B30A-C1D4E98774F6",
+    "transactionRequestId": 91
+  },
+  {
+    "amount": 3717.38,
+    "responseCode": null,
+    "status": "0",
+    "transactionId": "24AB7E79-8611-4DE7-A567-F4F3B90C4A32",
+    "transactionRequestId": 92
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "0",
+    "status": "2",
+    "transactionId": "1",
+    "transactionRequestId": 93
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "0",
+    "status": "2",
+    "transactionId": "2",
+    "transactionRequestId": 94
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "0",
+    "status": "2",
+    "transactionId": "3",
+    "transactionRequestId": 95
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "0",
+    "status": "2",
+    "transactionId": "4",
+    "transactionRequestId": 96
+  },
+  {
+    "amount": -0.01,
+    "responseCode": "12",
+    "status": "4",
+    "transactionId": "5",
+    "transactionRequestId": 97
+  },
+  {
+    "amount": -0.01,
+    "responseCode": "3",
+    "status": "4",
+    "transactionId": "6",
+    "transactionRequestId": 98
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "0",
+    "status": "2",
+    "transactionId": "7",
+    "transactionRequestId": 99
+  },
+  {
+    "amount": 0.01,
+    "responseCode": "4",
+    "status": "4",
+    "transactionId": "8",
+    "transactionRequestId": 100
+  }
+]

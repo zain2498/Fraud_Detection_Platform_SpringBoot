@@ -1,4 +1,4 @@
-package com.zain.transaction.transaction_service.kafka;
+package com.zain.transaction.transaction_service.kafka.producer;
 
 import com.zain.transaction.transaction_service.dto.TransactionEvent;
 import lombok.RequiredArgsConstructor;

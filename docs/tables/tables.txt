@@ -1,0 +1,192 @@
+CREATE TABLE fraud_payment_request_details AS
+SELECT
+    request_details_id,
+
+    request_id,
+
+    amount,
+
+    request_type,
+
+    payment_type,
+
+    schedule_date,
+
+    response_code,
+
+    response_text,
+
+    'MASKED_SEQ_NO' AS transaction_seq_no,
+
+    'MASKED_APPROVAL' AS approval_code,
+
+    avs_result_code,
+
+    cvv_result_code,
+
+    status,
+
+    comments,
+
+    module_id,
+
+    record_created_by,
+
+    record_created_date,
+
+    last_updated_by,
+
+    last_updated_date,
+
+    'MASKED_AUTH_CODE' AS authorization_code,
+
+    batch_id,
+
+    batch_status,
+
+    batch_settle_date,
+
+    NULL AS customer_signature,
+
+    application_identifier,
+
+    application_issuer_data,
+
+    terminal_verification_results,
+
+    transaction_status_indicator,
+
+    receipt_application_cryptogram_label,
+
+    'MASKED_CRYPTOGRAM' AS receipt_application_cryptogram,
+
+    receipt_application_identifier_label,
+
+    receipt_application_preferred_name_label,
+
+    receipt_application_preferred_name,
+
+    receipt_application_transaction_counter_label,
+
+    receipt_application_transaction_counter,
+
+    receipt_approval_code_label,
+
+    receipt_authorization_response_code_label,
+
+    receipt_authorization_response_code,
+
+    receipt_card_number_label,
+
+    CONCAT(
+        'XXXX-XXXX-XXXX-',
+        RIGHT(IFNULL(receipt_card_number,'0000'),4)
+    ) AS receipt_card_number,
+
+    receipt_card_type_label,
+
+    receipt_card_type,
+
+    receipt_entry_legend_label,
+
+    receipt_entry_legend,
+
+    receipt_entry_method_label,
+
+    receipt_entry_method
+
+FROM pps_eft_payment_request_details;
+
+
+
+
+//------------------
+CREATE TABLE fraud_payment_request AS
+SELECT
+    request_id,
+
+    customer_account_id + 1000000 AS customer_account_id,
+
+    CONCAT('TXN_', request_id) AS transaction_id,
+
+    reference_type_id,
+
+    reference_id,
+
+    CONCAT('REF_', request_id) AS reference_number,
+
+    'MASKED_PAYMENT_REFERENCE' AS payment_reference,
+
+    'MASKED_VPS_TX_ID' AS vps_tx_id,
+
+    'MASKED_SECURITY_KEY' AS security_key,
+
+    'MASKED_AUTH_NO' AS tx_auth_no
+
+FROM pps_eft_payment_request;
+
+
+//-----------------
+
+CREATE TABLE fraud_transaction_request AS
+SELECT
+    transaction_request_id,
+
+    CONCAT('TXN_', transaction_request_id) AS transaction_id,
+
+    request_type,
+
+    reference_id,
+
+    revenue_area_id,
+
+    merchant_id,
+
+    payment_type_id,
+
+    status,
+
+    response_code,
+
+    response_text,
+
+    amount,
+
+    created_date
+
+FROM pps_eft_transaction_request;
+
+
+CREATE TABLE fraud_analysis (
+
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+
+    request_id BIGINT,
+
+    transaction_id VARCHAR(255),
+
+    risk_score INT,
+
+    decision VARCHAR(50),
+
+    reasons TEXT,
+
+    analyzed_at DATETIME
+);
+
+
+These are tables fromo where we are getting the actual values to train our modal to protect from credit card fraud detection.
+fraud_transaction_request
+fraud_payment_request
+fraud_payment_request_details
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-06-11T07:42:49.809Z",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/transactions"
+}

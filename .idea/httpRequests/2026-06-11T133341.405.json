@@ -1,0 +1,6 @@
+{
+  "timestamp": "2026-06-11T08:33:41.915Z",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "path": "/transactions"
+}
